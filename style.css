@@ -180,3 +180,8 @@ p.time-and-place {
 .speaker-item:nth-child(2) > .speaker-image {
     background: yellow !important;
 }
+
+.image-box {
+    vertical-align: bottom !important;
+    display: flex;
+}
